@@ -1,3 +1,3 @@
 # my-website
 
-GitHun is Awesome
+GitHub is Awesome
