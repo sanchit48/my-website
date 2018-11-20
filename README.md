@@ -1,3 +1,3 @@
-# my-website
+#website
 
 GitHub is Awesome
